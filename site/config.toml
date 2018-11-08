@@ -15,7 +15,7 @@ title = "Canteen Status"
 # Replace these examples with your own system names.
 systems = [
   "Canteen App",
-  "Canteen Managment",
+  "Canteen Management",
   "Database",
   "Web Site"
 ]
